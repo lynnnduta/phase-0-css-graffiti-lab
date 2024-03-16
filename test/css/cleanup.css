@@ -1,11 +1,16 @@
 .tag-1 {
-    background: url(../images/tag-1.png) no-repeat;
-    z-index: 7;
-    display: block;
-    margin: 0;
-    padding:o ;
-  }
-  #wall .tag-1 {
-    display: none;
-  }
-  
+  background: url(../images/tag-1.png) no-repeat;
+  z-index: 7;
+  display: block;
+}
+#wall .tag-1 {
+  display: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+} 
